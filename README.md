@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaluharuka&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaluharuka" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Python**
 - 📫 How to reach me **krishnaluharuka11@gmail.com**
 - ⚡ Fun fact **I can deal with spaghetti code**
 
